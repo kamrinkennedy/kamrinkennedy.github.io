@@ -1,11 +1,11 @@
 # Site settings
 author: Kamrin Kennedy
-title: 
+title: Software Engineering Immersion
 header-img: img/home-bg.png
 email: kamrinkennedy@gmail.com
 copyright_name: Kamrin Kennedy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Full-Time Online
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kamrinkennedy
