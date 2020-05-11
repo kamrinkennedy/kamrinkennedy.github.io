@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Software Engineering and Me"
-date:       2020-05-08 23:30:07 +0000
+date:       2020-05-08 19:30:08 -0400
 permalink:  software_engineering_and_me
 ---
 
