@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "U.S.S. Brews Cruise: My CLI Adventure"
-date:       2020-05-29 18:43:47 +0000
+title:      "U.S.S. Brews Cruise - My CLI Adventure"
+date:       2020-05-29 14:43:48 -0400
 permalink:  u_s_s_brews_cruise_my_cli_adventure
 ---
 
