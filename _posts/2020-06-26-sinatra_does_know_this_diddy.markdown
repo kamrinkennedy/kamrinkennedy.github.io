@@ -43,6 +43,12 @@ The final and most prominent challenge in building this application was establis
 
 ![](https://imgur.com/YuPNaIn.png)
 
+> If you would like to explore the application further, follow these links:
+> 
+
+[Github Repository](https://github.com/kamrinkennedy/game_library)
+[YouTube Guide](https://www.youtube.com/watch?v=Bw5HyjpoiEE)
+
 
 
 
