@@ -1,11 +1,10 @@
 ---
 layout: post
 title:      "Rails, Rails, Rails"
-date:       2020-08-02 23:51:42 +0000
+date:       2020-08-02 19:51:43 -0400
 permalink:  rails_rails_rails
 ---
 
-#### > My foray into the Ruby on Rails framework.
 > 
 > For my Rails portfolio project, I've created a web application name Barmaid's Tale. It is designed for bartenders (or just home mixologists!) to be able to share and review new craft cocktail recipes with one another. In order to accomplish this, several factors needed to be taken into consideration from the getgo:
 
