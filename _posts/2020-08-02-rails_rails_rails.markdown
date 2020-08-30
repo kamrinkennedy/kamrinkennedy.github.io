@@ -19,19 +19,19 @@ One of the most important part of this project was setting up the object relatio
 
 Additionally, given that there is a join table (Reviews) that belongs to both a user and a recipe, I was able to establish a many-to-many relationship between Users and Recipes.
 
-![](https://i.imgur.com/7qVgaHR.png[)
+![](https://i.imgur.com/7qVgaHR.png)
 
-![](https://i.imgur.com/ugeSb6u)
+![](https://i.imgur.com/ugeSb6u.png)
 
 This creates a few extra methods, such as #reviewers as an instance method for the Recipe class. This would allow you to view all of the Users that have reviewed a particular instance of a recipe. Inversely, we are also able to use #reviewed_recipes on a User instance to see which recipes that they own have been reviewed.
 
 For the purpose of this application, not all models required CRUD capabilities or entirely RESTful routes. The Recipes and Reviews hold most of the CRUD capabilities (and therefor RESTful routes).
 
-![](https://imgur.com/TstzKP5)
+![](https://i.imgur.com/TstzKP5.png)
 
 Of course, there are also some non-restful routes added in as well for the sake of user ease, URL readability, and added features: 
 
-![](https://imgur.com/vu04GGH)
+![](https://i.imgur.com/vu04GGH.png)
 
 In particular, this nested routing allows the user to create a new recipe for a particular spirit from that spirit's show page without having to provide the form with that information by accessing it through the URL format: "/main_spirits/:id/recipes/new". :id in this instance corresponds to the ID of the spirit.
 
@@ -39,17 +39,17 @@ One interesting challenge in this application was implementing omniauthorization
 
 To differentiate between signing up through the application itself versus logging in through Google, I created a Class method in the Users model to instantiate a new user through omniauthorization, filling in or generating all of the necessary fields for a new user to be added to the database.
 
-![](https://imgur.com/vhLqFRp)
+![](https://i.imgur.com/vhLqFRp.png)
 
 This leads directly into separations of concerns. I've written several class, instance, and helper methods throughout my application in order to keep it DRY ("don't repeat yourself"). Additionally, I've separated my forms for reviews and recipes in order to clean up the view pages.
 
-![](https://imgur.com/xl9f2zo)
+![](https://i.imgur.com/xl9f2zo.png)
 
-![](https://imgur.com/ZZQQo0E)
+![](https://i.imgur.com/ZZQQo0E.png)
 
-![](https://imgur.com/RSCX89l)
+![](https://i.imgur.com/RSCX89l.png)
 
-![](https://imgur.com/o3ANhE0)
+![](https://i.imgur.com/o3ANhE0.png)
 
 In the above image, the methods created for calculating rating averages were done using Active Record queries as opposed to pure Ruby code. This is a much more efficient method of retrieving information from your database. 
 
