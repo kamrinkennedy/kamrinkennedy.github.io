@@ -19,10 +19,9 @@ One of the most important part of this project was setting up the object relatio
 
 Additionally, given that there is a join table (Reviews) that belongs to both a user and a recipe, I was able to establish a many-to-many relationship between Users and Recipes.
 
-![](http://imgur.com/ugeSb6u)
-[img]https://i.imgur.com/7qVgaHR.png[/img]
+![](https://i.imgur.com/7qVgaHR.png[)
 
-![](https://imgur.com/ugeSb6u)
+![](https://i.imgur.com/ugeSb6u)
 
 This creates a few extra methods, such as #reviewers as an instance method for the Recipe class. This would allow you to view all of the Users that have reviewed a particular instance of a recipe. Inversely, we are also able to use #reviewed_recipes on a User instance to see which recipes that they own have been reviewed.
 
