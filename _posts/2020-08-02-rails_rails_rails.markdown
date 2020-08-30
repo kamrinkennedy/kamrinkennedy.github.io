@@ -19,7 +19,8 @@ One of the most important part of this project was setting up the object relatio
 
 Additionally, given that there is a join table (Reviews) that belongs to both a user and a recipe, I was able to establish a many-to-many relationship between Users and Recipes.
 
-![](https://imgur.com/ugeSb6u)
+![](http://imgur.com/ugeSb6u)
+[img]https://i.imgur.com/7qVgaHR.png[/img]
 
 ![](https://imgur.com/ugeSb6u)
 
