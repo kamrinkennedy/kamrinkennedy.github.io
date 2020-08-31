@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Stick to the (java)Script"
-date:       2020-08-31 01:25:34 +0000
+date:       2020-08-30 21:25:35 -0400
 permalink:  stick_to_the_java_script
 ---
 
@@ -34,6 +34,7 @@ I added a slew of customized event listeners to handle all clicks and update the
 ![](https://i.imgur.com/9OD61Fg.png)
 
 If you would like to explore this application more:
+
 [Github Repository](https://github.com/kamrinkennedy/backend-travel-mapper)
 
 [YouTube Walkthrough](https://youtu.be/yx21fWsE1TE)
