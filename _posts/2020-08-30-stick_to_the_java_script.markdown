@@ -34,7 +34,7 @@ I added a slew of customized event listeners to handle all clicks and update the
 ![](https://i.imgur.com/9OD61Fg.png)
 
 If you would like to explore this application more:
-
+<br>
 [Github Repository](https://github.com/kamrinkennedy/backend-travel-mapper)
 
 [YouTube Walkthrough](https://youtu.be/yx21fWsE1TE)
