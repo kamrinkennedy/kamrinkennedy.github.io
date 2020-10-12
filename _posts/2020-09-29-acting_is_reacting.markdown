@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Acting is Reacting"
-date:       2020-09-29 18:12:25 +0000
+date:       2020-09-29 14:12:26 -0400
 permalink:  acting_is_reacting
 ---
 
@@ -29,6 +29,6 @@ One particular struggle that I had (that I never intentionally sought out) was s
 While I've easily spent more time on this project than any of the previous, my work is far from done. I'm excited to continue developing it into something more dynamic, exciting, and appealing.
 
 [Github Frontend Repo](https://github.com/kamrinkennedy/acting-out-frontend)
-[YouTube Walkthrough](http://)
+[YouTube Walkthrough](https://youtu.be/zJq4yIJjFvM)
 
 
